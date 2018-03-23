@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/For-Jekyll-orange.svg">
 </p>
 
+`WOW`is a tool for quickly generating Jekyll article templates。It is small but useful. It saves your time, you just need to write `wow` articles.
+
 [中文简介](https://github.com/liaoyuanng/wow/blob/master/README_CN.md)
 
 ## HOW TO USE
