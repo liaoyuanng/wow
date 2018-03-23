@@ -1,4 +1,9 @@
-# WOW! Nice Post!
+<p align="center" >
+  <img src="https://github.com/liaoyuanng/wow/blob/master/resource/logo.png" alt="logo" title="wow">
+</p>
+
+[![Build Status](https://travis-ci.org/liaoyuanng/wow.svg?branch=master)](https://travis-ci.org/liaoyuanng/wow)
+![swift](https://img.shields.io/badge/swift-4.0-brightgreen.svg)
 
 `WOW`is a tool for quickly generating Jekyll article templates。It is small but useful. It saves your time, you just need to write `wow` articles.
 
