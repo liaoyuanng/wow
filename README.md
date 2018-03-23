@@ -12,9 +12,9 @@
 
 ## HOW TO USE
 
-### 1. Install
+### 1. Install
 
-Run with Terminal.app
+Run with Terminal.app
 
 ```
 > git clone https://github.com/liaoyuanng/wow.git
