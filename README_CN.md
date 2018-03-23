@@ -2,11 +2,12 @@
   <img src="https://github.com/liaoyuanng/wow/blob/master/resource/logo.png" alt="logo" title="wow">
 </p>
 
-<p align="center">
-[![Build Status](https://travis-ci.org/liaoyuanng/wow.svg?branch=master)](https://travis-ci.org/liaoyuanng/wow)
-![swift](https://img.shields.io/badge/swift-4.0-brightgreen.svg)
-![jekyll](https://img.shields.io/badge/For-Jekyll-orange.svg)
+<p align="center" >
+  <a href="https://travis-ci.org/liaoyuanng/wow"><img src="https://travis-ci.org/liaoyuanng/wow.svg?branch=master"></a>
+  <img src="https://img.shields.io/badge/swift-4.0-brightgreen.svg">
+  <img src="https://img.shields.io/badge/For-Jekyll-orange.svg">
 </p>
+
 
 `WOW`是一个自从生成 `Jekyll` 文章模板的脚本。它虽然很小，但是却十分有用。它可以节省你很多时间，有了它，你只需负责写出`666`的文章就行啦。
 
