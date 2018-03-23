@@ -2,9 +2,11 @@
   <img src="https://github.com/liaoyuanng/wow/blob/master/resource/logo.png" alt="logo" title="wow">
 </p>
 
-[![Build Status](https://travis-ci.org/liaoyuanng/wow.svg?branch=master)](https://travis-ci.org/liaoyuanng/wow)
-![swift](https://img.shields.io/badge/swift-4.0-brightgreen.svg)
-![jekyll](https://img.shields.io/badge/For-Jekyll-orange.svg)
+<p align="center" >
+  <a href="https://travis-ci.org/liaoyuanng/wow"><img src="https://travis-ci.org/liaoyuanng/wow.svg?branch=master"></a>
+  <img src="https://img.shields.io/badge/swift-4.0-brightgreen.svg">
+  <img src="https://img.shields.io/badge/For-Jekyll-orange.svg">
+</p>
 
 [中文简介](https://github.com/liaoyuanng/wow/blob/master/README_CN.md)
 
